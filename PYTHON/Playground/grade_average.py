@@ -12,7 +12,7 @@ elif Average_Grade > 80 or Average_Grade == 80:
 elif Average_Grade > 70 or Average_Grade == 70:
     print("Nice! you pass the Semester with C ")
 elif Average_Grade > 60 or Average_Grade == 60:
-    print(" Sorry, but you Pass the Semester with D, you need to put more effort.")
+    print(" Alright you Pass the Semester with D, but you need to put more effort.")
 
 else:
     print("Sorry, but you Failed the Semester with E, you need to work harder.")
